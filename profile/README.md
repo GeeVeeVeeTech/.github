@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Geevee website footer logo.png" alt="Genevieve LLC Logo" width="1000">
+</p>
+
+
 # Genevieve LLC
 
 Welcome to the official GitHub organization for **Genevieve LLC**.
